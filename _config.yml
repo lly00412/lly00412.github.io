@@ -1,8 +1,7 @@
 title: Liyan Chen # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <div style="text-align: center;">
-  <img src="/images/logo.png?raw=true" alt="logo" style="width:120px; border-radius: 50%;"><br><br>
+  <img src="/images/logo.png?raw=true" alt="logo" style="width:240px; border-radius: 50%;"><br><br>
   <strong>CS Ph.D</strong><br>
   Stevens Institute of Technology<br><br>
   <a href="https://scholar.google.com/citations?user=ZU9JhNYAAAAJ&hl=en">View my Google Scholar</a>
