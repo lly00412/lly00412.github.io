@@ -16,7 +16,7 @@ Uncertainty Estimation | Multi-View 3D Reconstruction | Active Vision | Robotic 
 🌟Mar 2025 - One paper was accepted to CVPR2025.  
 🌟Jan 2025 - Given an invited talk at NYC Computer Vision Day 2025.  
 🌟Mar 2023 - One paper was accepted to CVPR2023.  
-🌟Jan 2020 - Joined the Computer Vision Lab at Stevens Institute of Technology.  
+🌟Jan 2020 - Joined the Computer Vision Lab at SIT.  
 🌟Dec 2019 - Given an invited talk in Neurips 2019 WiML workshop.  
 🌟Aug 2019 - Received AWS Machine Learning Research Awards.  
 
@@ -30,10 +30,16 @@ Uncertainty Estimation | Multi-View 3D Reconstruction | Active Vision | Robotic 
 ---
 ### 🚀Selected Projects
 
+- **ActiveGAMER: Active GAussian Mapping through Efficient Rendering**  
+<span class="italic-10pt">Liyan Chen, Huangying Zhan, Kevin Chen, Xiangyu Xu, Qingan Yan, Changjiang Cai, Yi Xu</span>
+<img src="images/projects/ActiveGAMER.png?raw=true" width="480"/>  
+[[Paper](https://arxiv.org/abs/2501.06897)]|[Code(coming soon)]
+
+
 - **Learning the Distribution of Errors in Stereo Matching for Joint Disparity and Uncertainty Estimation**  
 <span class="italic-10pt">Liyan Chen, Weihan Wang, Philippos Mordohai</span>  
 <img src="images/projects/SEDNet.jpeg?raw=true" width="480"/>  
-[[Paper](https://arxiv.org/abs/2304.00152)]|[[Video](https://youtu.be/5Y6Vo69SiLQ?si=Kt6sXdxM9OW0Ugz2)][[Code](https://github.com/lly00412/SEDNet?tab=readme-ov-file)]
+[[Paper](https://arxiv.org/abs/2304.00152)]|[[Video](https://youtu.be/5Y6Vo69SiLQ?si=Kt6sXdxM9OW0Ugz2)]|[[Code](https://github.com/lly00412/SEDNet?tab=readme-ov-file)]
 
 - **DropCluster: A structured dropout for convolutional networks**  
 <span class="italic-10pt">Liyan Chen, Philip Gautier, Sergul Aydore</span>  
