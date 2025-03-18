@@ -1,8 +1,19 @@
-## Portfolio
+## Welcome!
+
+I am a CS Ph.D student from [Stevens Institute of Technology](https://www.stevens.edu/), working with Prof. [Philippos Mordohai](https://mordohai.github.io/). I got my Master's degree from Stevens as well, working on Information and Data Engineering Program. Previously, I obtained my Bachelor's degree in Mathematics from Renmin University of China. I am currently looking for Posdoc position and faculty job, here is my [Research Statement](files/Research_Statement_LC.pdf) and [CV](files/LC_CV.pdf).
+
+## Research Interest
+
+Uncertainty Estimation | Multi-View 3D Reconstruction | Active Vision | Robotic perception | Semantic Mapping | Machine Learning
+
+*__My research in machine learning and computer vision focuses on building systems that can effectively learn from limited data and identify the uncertain or unreliable aspects within the current learning process.__* You can find all my research projects at [⭐:[Github](https://github.com/lly00412)], [🎓:[Google Scholar](https://scholar.google.com/citations?user=ZU9JhNYAAAAJ&hl=en)]!😎
+
+
+
 
 ---
 
-### Category Name 1 
+### 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
