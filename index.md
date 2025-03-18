@@ -6,7 +6,13 @@ I am a CS Ph.D student from [Stevens Institute of Technology](https://www.steven
 
 #### :sparkler: Research Interests
 
-Uncertainty Estimation | Multi-View 3D Reconstruction | Active Vision | Robotic perception | Semantic Mapping | Machine Learning
+- <span class="italic-12pt">Uncertainty Estimation</span>
+- <span class="italic-12pt">Multi-View 3D Reconstruction</span>
+- <span class="italic-12pt">Active Vision</span>
+- <span class="italic-12pt">Robotic perception</span>
+- <span class="italic-12pt">Semantic Mapping</span>
+- <span class="italic-12pt">Machine Learning</span>
+
 
 *__My research in machine learning and computer vision focuses on building systems that can effectively learn from limited data and identify the uncertain or unreliable aspects within the current learning process.__* You can find all my research projects at [🐙:[Github](https://github.com/lly00412)], [🎓:[Google Scholar](https://scholar.google.com/citations?user=ZU9JhNYAAAAJ&hl=en)]!😎
 
