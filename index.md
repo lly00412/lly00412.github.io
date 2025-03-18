@@ -30,10 +30,15 @@ Uncertainty Estimation | Multi-View 3D Reconstruction | Active Vision | Robotic 
 ---
 ### Selected Projects
 
+#### Learning the Distribution of Errors in Stereo Matching for Joint Disparity and Uncertainty Estimation
+<span class="italic-10pt">Liyan Chen, Weihan Wang, Philippos Mordohai</span>  
+<img src="images/projects/SEDNet.jpeg?raw=true" width="480"/>  
+[[Paper](https://arxiv.org/abs/2304.00152)]|[[Video](https://youtu.be/5Y6Vo69SiLQ?si=Kt6sXdxM9OW0Ugz2)][[Code](https://github.com/lly00412/SEDNet?tab=readme-ov-file)]
+
 #### DropCluster: A structured dropout for convolutional networks
 <span class="italic-10pt">Liyan Chen, Philip Gautier, Sergul Aydore</span>  
-<img src="images/projects/DropCluster.jpg?raw=true" width="300"/>  
-[[Paper](https://arxiv.org/abs/2002.02997)]
+<img src="images/projects/DropCluster.jpg?raw=true" width="480"/>  
+[[Paper](https://arxiv.org/abs/2002.02997)]  
 
 
 <!-- Remove above link if you don't want to attibute -->
