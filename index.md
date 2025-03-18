@@ -32,31 +32,8 @@ Uncertainty Estimation | Multi-View 3D Reconstruction | Active Vision | Robotic 
 
 #### DropCluster: A structured dropout for convolutional networks
 <span class="italic-10pt">Liyan Chen, Philip Gautier, Sergul Aydore</span>  
-<img src="images/projects/DropCluster.jpg?raw=true" width="300"/>  
+<img src="images/DropCluster.jpg?raw=true" width="300"/>  
 [[Paper](https://arxiv.org/abs/2002.02997)]
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
