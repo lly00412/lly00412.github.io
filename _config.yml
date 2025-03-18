@@ -1,12 +1,12 @@
 title: Liyan Chen # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  CS Ph.D 
-  <br><br>
-  Stevens Institute of Technology 
-  <br><br>
-  <a href="https://github.com/lly00412">Github</a> |  <a href="https://scholar.google.com/citations?user=ZU9JhNYAAAAJ&hl=en">Google Scholar</a>
-  
+  <div style="text-align: center;">
+  <img src="/images/logo.png?raw=true" alt="logo" style="width:200px; border-radius: 50%;"><br><br>
+  <span style="font-size:14pt;"><strong>CS Ph.D</strong><br>
+  <span style="font-size:12pt;">Stevens Institute of Technology<br>
+  <span style="font-size:12pt;">Email: lchen39 @ stevens.edu <br>
+  <span style="font-size:14pt;"><a href="https://github.com/lly00412">Github</a> | <a href="https://scholar.google.com/citations?user=ZU9JhNYAAAAJ&hl=en">Google Scholar</a>
+  </div>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
