@@ -12,7 +12,7 @@ Uncertainty Estimation | Multi-View 3D Reconstruction | Active Vision | Robotic 
 
 ---
 
-### News
+### 🔔News
 🌟Mar 2025 - One paper was accepted to CVPR2025.  
 🌟Jan 2025 - Given an invited talk at NYC Computer Vision Day 2025.  
 🌟Mar 2023 - One paper was accepted to CVPR2023.  
@@ -22,20 +22,20 @@ Uncertainty Estimation | Multi-View 3D Reconstruction | Active Vision | Robotic 
 
 ---
 
-### Professional Services
+### ☕Professional Services
 
 - **Conference Reviewer**: ICCV2025, CVPR2025, ICCV2024, CVPR2024
 - **Workshop Facilitator**: WiML Un-Workshop at ICML 2021
 
 ---
-### Selected Projects
+### 🚀Selected Projects
 
-#### Learning the Distribution of Errors in Stereo Matching for Joint Disparity and Uncertainty Estimation
+- **Learning the Distribution of Errors in Stereo Matching for Joint Disparity and Uncertainty Estimation**  
 <span class="italic-10pt">Liyan Chen, Weihan Wang, Philippos Mordohai</span>  
 <img src="images/projects/SEDNet.jpeg?raw=true" width="480"/>  
 [[Paper](https://arxiv.org/abs/2304.00152)]|[[Video](https://youtu.be/5Y6Vo69SiLQ?si=Kt6sXdxM9OW0Ugz2)][[Code](https://github.com/lly00412/SEDNet?tab=readme-ov-file)]
 
-#### DropCluster: A structured dropout for convolutional networks
+- **DropCluster: A structured dropout for convolutional networks**  
 <span class="italic-10pt">Liyan Chen, Philip Gautier, Sergul Aydore</span>  
 <img src="images/projects/DropCluster.jpg?raw=true" width="480"/>  
 [[Paper](https://arxiv.org/abs/2002.02997)]  
