@@ -19,7 +19,7 @@ I am a CS Ph.D student from [Stevens Institute of Technology](https://www.steven
 ---
 
 ### 🔔News
-🌟Apr 2025 - Passed my dissertation proposal defense.   
+🌟Apr 2025 - Passed my dissertation proposal defense.    
 🌟Mar 2025 - One paper was accepted to CVPR2025.  
 🌟Jan 2025 - Given an invited talk at NYC Computer Vision Day 2025.  
 🌟Mar 2023 - One paper was accepted to CVPR2023.  
@@ -37,10 +37,16 @@ I am a CS Ph.D student from [Stevens Institute of Technology](https://www.steven
 ---
 ### 🚀Selected Projects
 
+- **Understanding while Exploring: Semantics-driven Active Mappingg**  
+<span class="italic-10pt">Liyan Chen, Huangying Zhan, Yi Xu, Hairong Yin, Philippos Mordohai</span>
+<img src="images/projects/ActiveSGM.png?raw=true" width="480"/>  
+[[Paper](https://arxiv.org/abs/2506.00225)]|[Code(coming soon)]
+
+
 - **ActiveGAMER: Active GAussian Mapping through Efficient Rendering**  
 <span class="italic-10pt">Liyan Chen, Huangying Zhan, Kevin Chen, Xiangyu Xu, Qingan Yan, Changjiang Cai, Yi Xu</span>
 <img src="images/projects/ActiveGAMER.png?raw=true" width="480"/>  
-[[Paper](https://arxiv.org/abs/2501.06897)]|[Code(coming soon)]
+[[Paper](https://arxiv.org/abs/2501.06897)]|[[Video](https://www.youtube.com/watch?v=2sfVMuZq92Y)]|[Code(coming soon)]
 
 
 - **Learning the Distribution of Errors in Stereo Matching for Joint Disparity and Uncertainty Estimation**  
