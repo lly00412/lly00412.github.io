@@ -39,7 +39,7 @@ I am a CS Ph.D student from [Stevens Institute of Technology](https://www.steven
 
 - **Understanding while Exploring: Semantics-driven Active Mappingg**  
 <span class="italic-10pt">Liyan Chen, Huangying Zhan, Yi Xu, Hairong Yin, Philippos Mordohai</span>
-<img src="images/projects/ActiveSGM.png?raw=true" width="480"/>  
+<img src="images/projects/ActiveSGM.jpg?raw=true" width="480"/>  
 [[Paper](https://arxiv.org/abs/2506.00225)]|[Code(coming soon)]
 
 
