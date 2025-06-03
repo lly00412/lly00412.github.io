@@ -21,11 +21,11 @@ I am a CS Ph.D student from [Stevens Institute of Technology](https://www.steven
 ### 🔔News
 🌟Apr 2025 - Passed my dissertation proposal defense.    
 🌟Mar 2025 - One paper was accepted to CVPR2025.  
-🌟Jan 2025 - Given an invited talk at NYC Computer Vision Day 2025.  
+🌟Jan 2025 - Gave an invited talk at NYC Computer Vision Day 2025.  
 🌟Mar 2023 - One paper was accepted to CVPR2023.  
-🌟Jan 2020 - Joined the Computer Vision Lab at SIT.  
-🌟Dec 2019 - Given an invited talk in Neurips 2019 WiML workshop.  
-🌟Aug 2019 - Received AWS Machine Learning Research Awards.  
+🌟Jan 2020 - Joined the Computer Vision Lab at Stevens.  
+🌟Dec 2019 - Gave an invited talk in Neurips 2019 WiML workshop.  
+🌟Aug 2019 - AWS Machine Learning Research Awards.  
 
 ---
 
