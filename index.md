@@ -19,7 +19,7 @@ I am a CS Ph.D student from [Stevens Institute of Technology](https://www.steven
 ---
 
 ### 🔔News
-🌟Apr 2025 - Passed my dissertation proposal defense.
+🌟Apr 2025 - Passed my dissertation proposal defense.   
 🌟Mar 2025 - One paper was accepted to CVPR2025.  
 🌟Jan 2025 - Given an invited talk at NYC Computer Vision Day 2025.  
 🌟Mar 2023 - One paper was accepted to CVPR2023.  
@@ -31,7 +31,7 @@ I am a CS Ph.D student from [Stevens Institute of Technology](https://www.steven
 
 ### ☕Professional Services
 
-- **Conference Reviewer**: ICCV2025, CVPR2025, ICCV2024, CVPR2024
+- **Conference Reviewer**: CVPR2025, ICCV2024, CVPR2024
 - **Workshop Facilitator**: WiML Un-Workshop at ICML 2021
 
 ---

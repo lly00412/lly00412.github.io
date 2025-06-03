@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <span style="font-size:14pt;"><strong>CS Ph.D</strong><br>
   <span style="font-size:12pt;">Stevens Institute of Technology<br>
   <span style="font-size:12pt;">Email: lchen39 @ stevens.edu <br>
-  <span style="font-size:14pt;"><a href="https://github.com/lly00412">Github</a> | <a href="https://scholar.google.com/citations?user=ZU9JhNYAAAAJ&hl=en">Google Scholar</a>
+  <span style="font-size:14pt;"><a href="https://lly00412.github.io/files/LC_CV.pdf">CV</a> | <a href="https://github.com/lly00412">Github</a> | <a href="https://scholar.google.com/citations?user=ZU9JhNYAAAAJ&hl=en">Google Scholar</a>
   </div>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
