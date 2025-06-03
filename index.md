@@ -25,13 +25,13 @@ I am a CS Ph.D student from [Stevens Institute of Technology](https://www.steven
 🌟Mar 2023 - One paper was accepted to CVPR2023.  
 🌟Jan 2020 - Joined the Computer Vision Lab at Stevens.  
 🌟Dec 2019 - Gave an invited talk in Neurips 2019 WiML workshop.  
-🌟Aug 2019 - AWS Machine Learning Research Awards.  
+🌟Aug 2019 - AWS Machine Learning Research Award.  
 
 ---
 
 ### ☕Professional Services
 
-- **Conference Reviewer**: CVPR2025, ICCV2024, CVPR2024
+- **Conference Reviewer**: CVPR2025, ECCV2024, CVPR2024
 - **Workshop Facilitator**: WiML Un-Workshop at ICML 2021
 
 ---
