@@ -19,6 +19,7 @@ I am a CS Ph.D student from [Stevens Institute of Technology](https://www.steven
 ---
 
 ### 🔔News
+🌟Sep 2025 - One paper was accepted to Neurips 2025.  
 🌟Apr 2025 - Passed my dissertation proposal defense.    
 🌟Mar 2025 - One paper was accepted to CVPR2025.  
 🌟Jan 2025 - Gave an invited talk at NYC Computer Vision Day 2025.  
