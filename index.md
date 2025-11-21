@@ -38,7 +38,7 @@ I am a CS Ph.D student from [Stevens Institute of Technology](https://www.steven
 ---
 ### 🚀Selected Projects
 
-- **Understanding while Exploring: Semantics-driven Active Mappingg**  
+- **Understanding while Exploring: Semantics-driven Active Mapping**  
 <span class="italic-10pt">Liyan Chen, Huangying Zhan, Yi Xu, Hairong Yin, Philippos Mordohai</span>
 <img src="images/projects/ActiveSGM.jpg?raw=true" width="480"/>  
 [[Paper](https://arxiv.org/abs/2506.00225)]|[[Code](https://github.com/lly00412/ActiveSGM)]
