@@ -14,7 +14,7 @@ I am a CS Ph.D student from [Stevens Institute of Technology](https://www.steven
 - <span class="italic-10pt">Machine Learning</span>
 
 
-*__My research in machine learning and computer vision focuses on building systems that can effectively learn from limited data and identify the uncertain or unreliable aspects within the current learning process.__* You can find all my research projects at [🐙:[Github](https://github.com/lly00412)], [🎓:[Google Scholar](https://scholar.google.com/citations?user=ZU9JhNYAAAAJ&hl=en)]!😎
+*__My research in machine learning, computer vision and robotics focuses on building systems that can effectively learn from limited data and identify the uncertain or unreliable aspects within the current learning process.__* You can find all my research projects at [🐙:[Github](https://github.com/lly00412)], [🎓:[Google Scholar](https://scholar.google.com/citations?user=ZU9JhNYAAAAJ&hl=en)]!😎
 
 ---
 
