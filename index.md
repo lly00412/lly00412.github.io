@@ -38,24 +38,24 @@ I am a CS Ph.D student from [Stevens Institute of Technology](https://www.steven
 ---
 ### 🚀Selected Projects
 
-- **Understanding while Exploring: Semantics-driven Active Mapping**  
+- **Understanding while Exploring: Semantics-driven Active Mapping (NeurIPS 2025)**  
 <span class="italic-10pt">Liyan Chen, Huangying Zhan, Yi Xu, Hairong Yin, Philippos Mordohai</span>
 <img src="images/projects/ActiveSGM.jpg?raw=true" width="480"/>  
 [[Paper](https://arxiv.org/abs/2506.00225)]|[[Code](https://github.com/lly00412/ActiveSGM)]
 
 
-- **ActiveGAMER: Active GAussian Mapping through Efficient Rendering**  
+- **ActiveGAMER: Active GAussian Mapping through Efficient Rendering (CVPR 2025)**  
 <span class="italic-10pt">Liyan Chen, Huangying Zhan, Kevin Chen, Xiangyu Xu, Qingan Yan, Changjiang Cai, Yi Xu</span>
 <img src="images/projects/ActiveGAMER.png?raw=true" width="480"/>  
 [[Paper](https://arxiv.org/abs/2501.06897)]|[[Video](https://www.youtube.com/watch?v=2sfVMuZq92Y)]|[[Code](https://github.com/oppo-us-research/ActiveGAMER)]
 
 
-- **Learning the Distribution of Errors in Stereo Matching for Joint Disparity and Uncertainty Estimation**  
+- **Learning the Distribution of Errors in Stereo Matching for Joint Disparity and Uncertainty Estimation (CVPR 2023)**  
 <span class="italic-10pt">Liyan Chen, Weihan Wang, Philippos Mordohai</span>  
 <img src="images/projects/SEDNet.jpeg?raw=true" width="480"/>  
 [[Paper](https://arxiv.org/abs/2304.00152)]|[[Video](https://youtu.be/5Y6Vo69SiLQ?si=Kt6sXdxM9OW0Ugz2)]|[[Code](https://github.com/lly00412/SEDNet?tab=readme-ov-file)]
 
-- **DropCluster: A structured dropout for convolutional networks**  
+- **DropCluster: A structured dropout for convolutional networks (NeurIPS WiML 2019)**  
 <span class="italic-10pt">Liyan Chen, Philip Gautier, Sergul Aydore</span>  
 <img src="images/projects/DropCluster.jpg?raw=true" width="480"/>  
 [[Paper](https://arxiv.org/abs/2002.02997)]  
