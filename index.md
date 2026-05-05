@@ -32,7 +32,7 @@ I am a CS Ph.D student from [Stevens Institute of Technology](https://www.steven
 
 ### ☕Professional Services
 
-- **Conference Reviewer**: ICRA 2026, CVPR2025, ECCV2024, CVPR2024
+- **Conference Reviewer**: ICRA (2026), CVPR (2024,2025,2026), ECCV (2024,2026)
 - **Workshop Facilitator**: WiML Un-Workshop at ICML 2021
 
 ---
